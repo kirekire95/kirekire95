@@ -97,7 +97,7 @@
       /></a>
 
 ---
-- 🔭 Favourite stack ...
+- 🔥 Favourite stack ...
 
   - <img
       alt="Netlify"
@@ -153,7 +153,7 @@
         alt="AWS"
         src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"
       />
-- 🌱 What I am doing for fun ...
+- 👏 What I am doing for fun ...
   - <img
         alt="Unreal Engine"
         src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=flat-square&logo=unreal-engine&logoColor=white"
