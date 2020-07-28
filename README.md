@@ -168,6 +168,3 @@
         alt="Linux"
         src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white"
       />
-### 👏 Featured Projects ...
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kirekire95&repo=Gatsby---Shopify)
