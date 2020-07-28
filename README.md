@@ -65,7 +65,7 @@
       /></a>
 
 ---
-### 🔥 Favourite stack ...
+### 🔥 Favourite stack
   <img
       alt="Netlify"
       src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"
@@ -98,7 +98,7 @@
       alt="Neo4j"
       src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"
     />
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
 <img
         alt="Neo4j"
         src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"
@@ -119,7 +119,7 @@
         alt="AWS"
         src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"
       />
-### 👏 What I am doing for fun ...
+### 👏 What I am doing for fun
 <img
         alt="Unreal Engine"
         src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=flat-square&logo=unreal-engine&logoColor=white"
