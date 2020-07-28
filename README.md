@@ -97,42 +97,40 @@
       /></a>
 
 ---
-- 🔥 Favourite stack ...
-
-<img
+### 🔥 Favourite stack ...
+  <img
       alt="Netlify"
       src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"
     />
- <img
+  <img
       alt="React"
       src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
     />
-<img
+  <img
       alt="Gatsby"
       src="https://img.shields.io/badge/-Gatsby-542C85?style=flat-square&logo=gatsby&logoColor=white"
     />
-<img
+  <img
       alt="GraphQL"
       src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
     />
-<img
+  <img
       alt="Apollo"
       src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"
     />
-<img
+  <img
       alt="Styled Components"
       src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
     />
-<img
+  <img
       alt="Nodejs"
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
     />
-<img
+  <img
       alt="Neo4j"
       src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"
     />
-
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 <img
         alt="Neo4j"
         src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"
@@ -153,7 +151,7 @@
         alt="AWS"
         src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"
       />
-- 👏 What I am doing for fun ...
+### 👏 What I am doing for fun ...
 <img
         alt="Unreal Engine"
         src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=flat-square&logo=unreal-engine&logoColor=white"
