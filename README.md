@@ -78,6 +78,10 @@
       alt="Gatsby"
       src="https://img.shields.io/badge/-Gatsby-542C85?style=flat-square&logo=gatsby&logoColor=white"
     />
+   <img
+      alt="Next.js"
+      src="https://img.shields.io/badge/-Nextjs-542C85?style=flat-square&logo=next.js&logoColor=white"
+    />
   <img
       alt="GraphQL"
       src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
