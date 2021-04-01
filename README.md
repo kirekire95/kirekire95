@@ -9,14 +9,6 @@
     <h3>Technologies that I use on a regular basis</h3>
     <p>
       <img
-        alt="Visual Studio Code"
-        src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"
-      />
-      <img
-        alt="Netlify"
-        src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"
-      />
-      <img
         alt="React"
         src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
       />
@@ -67,10 +59,6 @@
 ---
 ### 🔥 Favourite stack
   <img
-      alt="Netlify"
-      src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"
-    />
-  <img
       alt="React"
       src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
     />
@@ -114,10 +102,6 @@
 <img
         alt="Nestjs"
         src="https://img.shields.io/badge/-Nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"
-      />
-<img
-        alt="Svelte"
-        src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"
       />
 <img
         alt="AWS"
