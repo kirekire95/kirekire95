@@ -46,6 +46,10 @@
     alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
   />
+  <img
+    alt="Jest"
+    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=jest&logoColor=white"
+  />
 </div>
 
 <h3>Reach me at</h3>
