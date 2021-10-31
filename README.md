@@ -45,7 +45,7 @@
         src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
       />      
     <h3>Reach me at</h3>
-    - 📫 **kirekire95@gmail.com**
+    <p><span>📫</span>kirekire95@gmail.com</p>
     <a href="https://www.linkedin.com/in/erik-claesson-651460150" target="_blank">
         <img
           alt="LinkedIn"
