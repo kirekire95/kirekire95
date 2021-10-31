@@ -13,7 +13,7 @@
         src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
       />
       <img
-        alt="redux"
+        alt="Redux"
         src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
       />
       <img
@@ -33,17 +33,9 @@
         src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"
       />
       <img
-        alt="Styled Components"
-        src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
-      />
-      <img
         alt="Nodejs"
         src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
-      />
-      <img
-        alt="MongoDB"
-        src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
-      />      
+      />     
     <h3>Reach me at</h3>
     <p><span>📫</span> kirekire95@gmail.com</p>
     <a href="https://www.linkedin.com/in/erik-claesson-651460150" target="_blank">
@@ -75,10 +67,6 @@
       src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"
     />
   <img
-      alt="Styled Components"
-      src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"
-    />
-  <img
       alt="Nodejs"
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
     />
@@ -96,10 +84,6 @@
         src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
       />
 <img
-        alt="Nestjs"
-        src="https://img.shields.io/badge/-Nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"
-      />
-<img
         alt="AWS"
         src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"
       />
@@ -111,12 +95,4 @@
 <img
         alt="Shopify"
         src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"
-      />
-<img
-        alt="Manjaro"
-        src="https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white"
-      />
-<img
-        alt="Linux"
-        src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white"
       />
