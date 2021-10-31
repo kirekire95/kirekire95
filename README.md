@@ -48,7 +48,7 @@
   />
   <img
     alt="Jest"
-    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=jest&logoColor=white"
+    src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"
   />
 </div>
 
