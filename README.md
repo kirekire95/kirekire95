@@ -58,11 +58,13 @@
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 /></a>
 <h3>👏 What I am doing for fun</h3>
-<img
-  alt="Unreal Engine"
-  src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=flat-square&logo=unreal-engine&logoColor=white"
-/>
-<img
-  alt="Shopify"
-  src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"
-/>
+<div>
+  <img
+    alt="Unreal Engine"
+    src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=flat-square&logo=unreal-engine&logoColor=white"
+  />
+  <img
+    alt="Shopify"
+    src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"
+  />
+</div>
