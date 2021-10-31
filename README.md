@@ -1,6 +1,6 @@
 <h1>Hey there 🖐</h1>
 <p>
-  I'm Erik, a fullstack developer from 🇸🇪
+  I'm Erik, a fullstack developer from Sweden 🇸🇪
 </p>
 <h3>
   My Portfolio with all of my projects are available<a
