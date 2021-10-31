@@ -1,4 +1,4 @@
-  <h1>Hey there, nice to see you 🖐</h1>
+  <h1>Hey there 🖐</h1>
     <p>
       I'm Erik, a fullstack developer from <strong>Sweden</strong>
       <img
@@ -44,13 +44,9 @@
         alt="MongoDB"
         src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
       />      
-    <h3>Where to find me</h3>
-      <a href="https://github.com/kirekire95" target="_blank">
-        <img
-          alt="Github"
-          src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-      /></a>
-      <a href="https://www.linkedin.com/in/erik-claesson-651460150" target="_blank">
+    <h3>Reach me at</h3>
+    - 📫 **kirekire95@gmail.com**
+    <a href="https://www.linkedin.com/in/erik-claesson-651460150" target="_blank">
         <img
           alt="LinkedIn"
           src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
