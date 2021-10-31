@@ -1,7 +1,6 @@
 <h1>Hey there 🖐</h1>
 <p>
   I'm Erik, a fullstack developer from 🇸🇪
-  <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13" />
 </p>
 <h3>
   My Portfolio with all of my projects are available<a
