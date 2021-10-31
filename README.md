@@ -1,9 +1,7 @@
 <h1>Hey there 🖐</h1>
-<p>
-  I'm Erik, a fullstack developer from Sweden 🇸🇪
-</p>
+<p>I'm Erik, a fullstack developer from Sweden 🇸🇪</p>
 <h3>
-  My Portfolio with all of my projects are available<a
+  My portfolio with all of my projects are available<a
     href="https://ec-mdx-portfolio.vercel.app"
     target="_blank"
     rel="noopener nofollow noreferrer"
@@ -50,7 +48,6 @@
     src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"
   />
 </div>
-
 <h3>Reach me at</h3>
 <p>
   <span>📫 </span><a href="mailto:kirekire95@gmail.com">kirekire95@gmail.com</a>
