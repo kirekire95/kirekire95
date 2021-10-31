@@ -46,7 +46,7 @@
         src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
       />     
     <h3>Reach me at</h3>
-    <p><span>📫</span><a href="mailto:kirekire95@gmail.com">kirekire95@gmail.com</a></p>
+    <p><span>📫 </span><a href="mailto:kirekire95@gmail.com">kirekire95@gmail.com</a></p>
     <a href="https://www.linkedin.com/in/erik-claesson-651460150" target="_blank">
         <img
           alt="LinkedIn"
