@@ -10,6 +10,7 @@
   My Portfolio with all of my projects are available<a
     href="https://ec-mdx-portfolio.vercel.app"
     target="_blank"
+    rel="noopener nofollow noreferrer"
   >
     here
   </a>
