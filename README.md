@@ -6,6 +6,14 @@
         width="13"
       />
     </p>
+<h3>
+  My Portfolio with all of my projects are available<a
+    href="https://ec-mdx-portfolio.vercel.app"
+    target="_blank"
+  >
+    here
+  </a>
+</h3>
     <h3>Technologies that I use on a regular basis</h3>
     <p>
       <img
