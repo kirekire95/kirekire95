@@ -20,6 +20,10 @@
     src="https://img.shields.io/badge/-Nextjs-542C85?style=for-the-badge&logo=next.js&logoColor=white"
   />
   <img
+    alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+  />
+  <img
     alt="GraphQL"
     src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
   />
@@ -28,12 +32,12 @@
     src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"
   />
   <img
-    alt="Nodejs"
-    src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white"
+    src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
+    alt="Prisma"
   />
   <img
-    alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="Node.js"
+    src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white"
   />
   <img
     alt="Jest"
