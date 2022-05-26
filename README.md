@@ -21,23 +21,23 @@
   />
   <img
     alt="GraphQL"
-    src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
+    src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
   />
   <img
     alt="Apollo"
-    src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"
+    src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"
   />
   <img
     alt="Nodejs"
-    src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
+    src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white"
   />
   <img
     alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />
   <img
     alt="Jest"
-    src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"
+    src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
   />
 </div>
 <h4>Reach me at</h4>
@@ -53,10 +53,10 @@
 <div>
   <img
     alt="Unreal Engine"
-    src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=flat-square&logo=unreal-engine&logoColor=white"
+    src="https://img.shields.io/badge/-Unreal Engine-232F3E?style=for-the-badge&logo=unreal-engine&logoColor=white"
   />
   <img
     alt="Shopify"
-    src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"
+    src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"
   />
 </div>
