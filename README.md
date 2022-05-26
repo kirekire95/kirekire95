@@ -13,7 +13,7 @@
 <div>
   <img
     alt="React"
-    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
   />
   <img
     alt="Next.js"
