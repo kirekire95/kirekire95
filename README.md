@@ -1,6 +1,6 @@
 <h1>Hey there 🖐</h1>
 <p>I'm Erik, a Full Stack Engineer from Sweden 🇸🇪</p>
-<h3>
+<h4>
   My portfolio with all of my projects are available<a
     href="https://ec-mdx-portfolio.vercel.app"
     target="_blank"
@@ -8,8 +8,8 @@
   >
     here
   </a>
-</h3>
-<h3>Technologies that I use on a regular basis</h3>
+</h4>
+<h4>Technologies that I use on a regular basis</h4>
 <div>
   <img
     alt="React"
@@ -40,7 +40,7 @@
     src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"
   />
 </div>
-<h3>Reach me at</h3>
+<h4>Reach me at</h4>
 <p>
   <span>📫 </span><a href="mailto:kirekire95@gmail.com">kirekire95@gmail.com</a>
 </p>
@@ -49,7 +49,7 @@
     alt="LinkedIn"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
 /></a>
-<h3>👏 What I am doing for fun</h3>
+<h4>👏 What I am doing for fun</h4>
 <div>
   <img
     alt="Unreal Engine"
