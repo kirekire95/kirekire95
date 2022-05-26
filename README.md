@@ -1,5 +1,5 @@
 <h1>Hey there 🖐</h1>
-<p>I'm Erik, a fullstack developer from Sweden 🇸🇪</p>
+<p>I'm Erik, a Full Stack Engineer from Sweden 🇸🇪</p>
 <h3>
   My portfolio with all of my projects are available<a
     href="https://ec-mdx-portfolio.vercel.app"
@@ -16,20 +16,12 @@
     src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
   />
   <img
-    alt="Gatsby"
-    src="https://img.shields.io/badge/-Gatsby-542C85?style=flat-square&logo=gatsby&logoColor=white"
-  />
-  <img
     alt="Next.js"
     src="https://img.shields.io/badge/-Nextjs-542C85?style=flat-square&logo=next.js&logoColor=white"
   />
   <img
     alt="GraphQL"
     src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
-  />
-  <img
-    alt="Redux"
-    src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
   />
   <img
     alt="Apollo"
