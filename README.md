@@ -4,7 +4,7 @@
   My portfolio with all of my projects are available<a
     href="https://ec-mdx-portfolio.vercel.app"
     target="_blank"
-    rel="noopener nofollow noreferrer"
+    rel="noopener"
   >
     here
   </a>
@@ -44,7 +44,7 @@
     src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
   />
 </div>
-<h4>Reach me at</h4>
+<h4>Contact me at</h4>
 <p>
   <span>📫 </span><a href="mailto:kirekire95@gmail.com">kirekire95@gmail.com</a>
 </p>
